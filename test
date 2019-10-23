@@ -1,0 +1,6 @@
+echo "# calculo_hector_salazar" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Hsalazar-hub/calculo_hector_salazar.git
+git push -u origin master
